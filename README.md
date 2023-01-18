@@ -4,7 +4,7 @@
 </p>
 <br>
 
-<h1>RestApi express with mongodb</h1>
+<h1>RestApi Deno with mongodb</h1>
 
 
 <p align="center">
