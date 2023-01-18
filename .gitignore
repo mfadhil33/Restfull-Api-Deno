@@ -1,3 +1,5 @@
 /.deno_plugins
 /.vscode
 denon.json
+.markdownlint.json
+yaml.ts
