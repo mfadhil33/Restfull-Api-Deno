@@ -23,7 +23,10 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
 <details>
- 
+ <h2>Running Server Deno</h2>
+ <h3>deno run --allow-net app.ts</h3>
+ <h3>u can running server like nodemon in nodejs, u must be installed denon</h3>
+ <h3>after u has been installed denon, u can write commands denon app.ts</h3>
 </details>
 
 ### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 Fadhil
